@@ -7,11 +7,12 @@
 
 |Project|Score| 
 -------|-------------------
-| Libft <img width=250>| [![dkarhan's 42 Libft Score]([https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2473094)](https://github.com/denizkarhan/libft)](https://github.com/dkarhan/libft)|
+| Libft <img width=250>| [![dkarhan's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2473094)](https://github.com/denizkarhan/libft)](https://github.com/dkarhan/libft)|
 | Born2Beroot| [![dkarhan's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2513590)](https://github.com/dkarhan)|
 | GetNextLine| [![dkarhan's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508633)](https://github.com/dkarhan/get_next_line)|
 | Printf| [![dkarhan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508634)](https://github.com/dkarhan/ft_printf)|
-| Minitalk| [![dkarhan's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2570042)](https://github.com/dkarhan/Mini-Talk)|
+| Minitalk| [![dkarhan's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2570042)]
+(https://github.com/dkarhan/Mini-Talk)|
 | Push_Swap| [![dkarhan's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2539638)](https://github.com/dkarhan/Push_swap)|
 | Fract-ol| [![dkarhan's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2573778)](https://github.com/dkarhan/Fract-ol)|
 | Philosophers| [![dkarhan's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2640467)](https://github.com/dkarhan)|
