@@ -7,7 +7,7 @@
 
 |Project|Score| 
 -------|-------------------
-| Libft <img width=300>| [![dkarhan's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2473094)](https://github.com/JaeSeoKim/badge42)|
+| Libft <img width=250>| [![dkarhan's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2473094)](https://github.com/JaeSeoKim/badge42)|
 | Born2Beroot| [![dkarhan's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2513590)](https://github.com/JaeSeoKim/badge42)|
 | GetNextLine| [![dkarhan's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508633)](https://github.com/JaeSeoKim/badge42)|
 | Printf| [![dkarhan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508634)](https://github.com/JaeSeoKim/badge42)|
