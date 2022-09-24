@@ -21,7 +21,10 @@
 | Push_Swap| [![dkarhan's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2539638)](https://github.com/denizkarhan/Push_swap)|
 | Fract-ol| [![dkarhan's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2573778)](https://github.com/denizkarhan/Fract-ol)|
 | Philosophers| [![dkarhan's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2640467)](https://github.com/denizkarhan)|
+| Minishell| [![dkarhan's 42 Minishell Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2640467)](https://github.com/denizkarhan)|
+| NetPractice| [![dkarhan's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2640467)](https://github.com/denizkarhan)|
 | ExamRank02| [![dkarhan's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2541816)](https://github.com/denizkarhan)|
 | ExamRank03| [![dkarhan's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2643723)](https://github.com/denizkarhan)|
+| ExamRank04| [![dkarhan's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2643723)](https://github.com/denizkarhan)|
 </td></tr></table>
 </p>
