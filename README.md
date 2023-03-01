@@ -32,3 +32,11 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
+
+<!--<p align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denizkarhan&show_icons=true&theme=tokyonight" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feanor1021&langs_count=5&layout=compact&hide=jupyter%20notebook&theme=tokyonight" align = "center"/>
+</p> -->
+
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
