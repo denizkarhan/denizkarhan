@@ -47,5 +47,4 @@
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-![github-user-contribution](https://github.com/denizkarhan/denizkarhan/assets/81527587/a974c6e2-6bc0-4fdd-a31e-ab28bcf59bd6)
 
