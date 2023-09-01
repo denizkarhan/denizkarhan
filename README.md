@@ -5,28 +5,39 @@
 * 📭 How to reach [me](https://www.linkedin.com/in/denizkarhan/)
 
 <p align="center">
-   <a href="https://profile.intra.42.fr/users/dkarhan"><img width="48%" src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/stats?cursusId=21&coalitionId=359" /></a>
-  <a href="https://profile.intra.42.fr/users/dkarhan"><img width="48%" src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/stats?cursusId=9&coalitionId=piscine" alt="dkarhan's 42 stats"/></a>
+
+   [![dkarhan's 42 stats](https://badge.mediaplus.ma/greenbinary/dkarhan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 </p>
 
 <details>
    <summary><h2> Ecole 42 </h2></summary>
+
+   <details>
+      <summary><h3> > Projects </h2></summary>
    
    | Project | Score | Project | Score |
    | :---: | :---: | :---: | :---: |
-   | `libft` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2473094"/> </a> | `get_next_line` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508633"/> </a> |
-   | `ft_printf` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508634"/> </a> | `Born2beroot` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2513590"/> </a> |
-   | `push_swap` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2539638"/> </a> | `minitalk` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2570042"/> </a> |
-   | `fract-ol` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2573778"/> </a> | `Philosophers` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2640467"/> </a> |
-   | `minishell` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2704641"/> </a> | `NetPractice` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2776469"/> </a> |
-   | `CPP Module 00` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2781301"/> </a> | `CPP Module 01` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2794922"/> </a> |
-   | `CPP Module 02` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2820907"/> </a> | `CPP Module 03` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2858244"/> </a> |
-   | `CPP Module 04` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2907237"/> </a> | `CPP Module 05` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2909771"/> </a> |
-   | `CPP Module 06` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2909840"/> </a> | `CPP Module 07` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2911017"/> </a> |
-   | `CPP Module 08` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2911162"/> </a> | `CPP Module 09` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/3027881"/> </a> |
-   | `cub3d` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2781296"/> </a> | `Inception` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2952014"/> </a> |
-   | `ft_irc` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/3040069"/> </a> | `ft_transcendence` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/3067979"/> </a> |
-   | `ft_linear_regression` | <a > <img src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/3171149"/> </a> |
+   | `libft` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/86382da8-11ff-4e3c-bffd-c25e55998fc4 alt="mypic" style="width:100px; height:75px" /> | `get_next_line` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/86382da8-11ff-4e3c-bffd-c25e55998fc4 alt="mypic" style="width:100px; height:75px" /> |
+   | `ft_printf` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> | `Born2beroot` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/aecda0ac-61bd-4f95-91ba-63be2a0f8f44 alt="mypic" style="width:100px; height:75px" /> |
+   | `push_swap` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/37bcc01e-6b15-4ae8-a7dc-e3a98906c476 alt="mypic" style="width:75px; height:75px" /> | `minitalk` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/72232c20-1429-42cc-9816-97e8b852c522 alt="mypic" style="width:100px; height:75px" /> |
+   | `fract-ol` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/86382da8-11ff-4e3c-bffd-c25e55998fc4 alt="mypic" style="width:100px; height:75px" /> | `Philosophers` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `minishell` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> | `NetPractice` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `CPP Module 00` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/5b419b6a-0458-44c5-8455-61e8ec38fbfa alt="mypic" style="width:100px; height:75px" /> | `CPP Module 01` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `CPP Module 02` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> | `CPP Module 03` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `CPP Module 04` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/5b419b6a-0458-44c5-8455-61e8ec38fbfa alt="mypic" style="width:100px; height:75px" /> | `CPP Module 05` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `CPP Module 06` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> | `CPP Module 07` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `CPP Module 08` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> | `CPP Module 09` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/dcbae142-7543-4226-a341-43e8d4020ecc alt="mypic" style="width:100px; height:75px" /> |
+   | `cub3d` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/ca2b1e43-a548-4d16-a2f5-e1eac11d098a alt="mypic" style="width:100px; height:75px" /> | `Inception` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/f10c0070-00e0-4a5e-abc7-2bacbbb5b039 alt="mypic" style="width:100px; height:75px" /> |
+   | `ft_irc` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/f10c0070-00e0-4a5e-abc7-2bacbbb5b039 alt="mypic" style="width:100px; height:75px" /> | `ft_transcendence` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/f10c0070-00e0-4a5e-abc7-2bacbbb5b039 alt="mypic" style="width:100px; height:75px" /> |
+   | `ft_linear_regression` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/86382da8-11ff-4e3c-bffd-c25e55998fc4 alt="mypic" style="width:100px; height:75px" /> | `DSLR` | <img src=https://github.com/denizkarhan/denizkarhan/assets/81527587/d9a876c7-08a9-4467-95f7-d1054aaf924a alt="mypic" style="width:100px; height:75px" /> |
+   </details>
+   
+   <details>
+      <summary><h3> > Holy Graph </h2></summary>
+   
+   ![graph](https://github.com/denizkarhan/denizkarhan/assets/81527587/14e25880-f2f7-4953-92cc-0ea035720c29)
+   </details>
+
 </details>
 
 <h3 align="left">Languages and Tools</h3>
