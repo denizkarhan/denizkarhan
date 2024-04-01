@@ -4,11 +4,6 @@
 * 🔎 Ask me about Ecole 4️⃣2️⃣
 * 📭 How to reach [me](https://www.linkedin.com/in/denizkarhan/)
 
-<p align="center">
-
-   [![dkarhan's 42 stats](https://badge.mediaplus.ma/greenbinary/dkarhan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</p>
-
 <details>
    <summary><h2> Ecole 42 </h2></summary>
 
