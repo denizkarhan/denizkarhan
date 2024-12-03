@@ -52,6 +52,5 @@
 <a href="https://www.kaggle.com/denizkarhan">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge" width="70"/>
 </a>
-[![](https://visitcount.itsvg.in/api?id=denizkarhan&icon=10&color=13)](https://visitcount.itsvg.in)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
